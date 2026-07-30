@@ -5,3 +5,5 @@ I’m fascinated by how technology evolves. I enjoy understanding what’s shapi
 I care a lot about writing code that's clean and easy for someone else to pick up later. Outside of code, I'm usually reading about AI, startups, or whatever new tech is making noise that week.
 
 Always open to collaborating on interesting projects or learning something new from other devs.
+
+
