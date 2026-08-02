@@ -6,4 +6,3 @@ I care a lot about writing code that's clean and easy for someone else to pick u
 
 Always open to collaborating on interesting projects or learning something new from other devs.
 
-
